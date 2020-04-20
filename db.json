@@ -1,11 +1,13 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+      "releaseNote": "hello"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "versions"
   }
 }
