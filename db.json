@@ -1,6 +1,7 @@
 {
-  "posts": [
+  "versions": [
     {
+      "id": "latest",
       "major": 1,
       "minor": 0,
       "patch": 0,
