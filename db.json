@@ -4,8 +4,8 @@
       "id": "latest",
       "major": 1,
       "minor": 0,
-      "patch": 1,
-      "releaseNote": "修复睡眠，重新唤醒之后无法按时打卡的问题",
+      "patch": 2,
+      "releaseNote": "修复首次使用无法登录的问题",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
