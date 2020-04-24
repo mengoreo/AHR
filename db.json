@@ -4,8 +4,8 @@
       "id": "latest",
       "major": 1,
       "minor": 0,
-      "patch": 2,
-      "releaseNote": "修复首次使用无法登录的问题",
+      "patch": 3,
+      "releaseNote": "1. 修复定时打卡无法准确在设置时间打卡的问题。\n2. 新增 log 文件，文件位置为 ~/Documents/com.mengoreo.oven.Auto-Health-Report.log 。",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
