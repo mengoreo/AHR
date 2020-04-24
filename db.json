@@ -4,8 +4,8 @@
       "id": "latest",
       "major": 1,
       "minor": 0,
-      "patch": 3,
-      "releaseNote": "1. 修复定时打卡无法准确在设置时间打卡的问题。\n2. 新增 log 文件，文件位置为 ~/Documents/com.mengoreo.oven.Auto-Health-Report.log 。",
+      "patch": 4,
+      "releaseNote": "1. 打卡失败通知消息中，新增「之后重试」的按钮，以防止由于短时间无法成功完成打卡，导致忘记打卡问题的出现。\n2. 辅以弹窗的通知消息，不再保留「点击重试」功能，仅作为提示。\n3. 新增中英文。\n4. 其他bug修复",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
