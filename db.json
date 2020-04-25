@@ -4,8 +4,9 @@
       "id": "latest",
       "major": 1,
       "minor": 0,
-      "patch": 4,
-      "releaseNote": "1. 打卡失败通知消息中，新增「之后重试」的按钮，以防止由于短时间无法成功完成打卡，导致忘记打卡问题的出现。\n2. 辅以弹窗的通知消息，不再保留「点击重试」功能，仅作为提示。\n3. 新增中英文。\n4. 其他bug修复",
+      "patch": 5,
+      "releaseNote": "新增「今日是否因发热请假未到岗（教职工）或未返校（学生）？」和「今日是否因发热外的其他原因请假未到岗（教职工）或未返校（学生）？」选项	1ee8d15	mengoreo <mengoreo@163.com>	Apr 26, 2020 at 02:33
+",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
