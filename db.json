@@ -5,8 +5,7 @@
       "major": 1,
       "minor": 0,
       "patch": 5,
-      "releaseNote": "新增「今日是否因发热请假未到岗（教职工）或未返校（学生）？」和「今日是否因发热外的其他原因请假未到岗（教职工）或未返校（学生）？」选项	1ee8d15	mengoreo <mengoreo@163.com>	Apr 26, 2020 at 02:33
-",
+      "releaseNote": "新增「今日是否因发热请假未到岗（教职工）或未返校（学生）？」和「今日是否因发热外的其他原因请假未到岗（教职工）或未返校（学生）？」选项。",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
