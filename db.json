@@ -4,8 +4,8 @@
       "id": "latest",
       "major": 1,
       "minor": 0,
-      "patch": 5,
-      "releaseNote": "新增「今日是否因发热请假未到岗（教职工）或未返校（学生）？」和「今日是否因发热外的其他原因请假未到岗（教职工）或未返校（学生）？」选项。",
+      "patch": 6,
+      "releaseNote": "1. 新增「核酸检测」和「是否4月10日后从下列地区返回浙江（含经停）」选项\n2. 手动检查更新",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
