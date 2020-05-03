@@ -4,8 +4,8 @@
       "id": "latest",
       "major": 1,
       "minor": 0,
-      "patch": 6,
-      "releaseNote": "1. 新增「核酸检测」和「是否4月10日后从下列地区返回浙江（含经停）」选项\n2. 手动检查更新",
+      "patch": 7,
+      "releaseNote": "1. 修复「手动打卡成功，关闭窗口之后，依旧提示打卡取消」的问题。\n. 添加「是否始终启用打卡按钮」的偏好设置选项，以应对意料之外的 bug 发生后，可自己手动打卡检查。\n3. 手动打卡按钮旁，添加「显示打卡过程」选项，勾选之后可现实自动打卡过程，作为测试打卡是否成功使用。\n￼",
       "downloadLink": "https://gitee.com/mengoreo/AHR/raw/master/build/Auto%20Health%20Report.pkg"
     }
   ],
